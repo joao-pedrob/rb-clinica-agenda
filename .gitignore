@@ -1,0 +1,13 @@
+# Runtime and local tooling
+node_modules/
+.vercel/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
